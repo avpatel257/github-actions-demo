@@ -8,7 +8,7 @@ class GithubActionDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		
+
 	}
 
 }
