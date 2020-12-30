@@ -8,6 +8,7 @@ class GithubActionDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		throw new RuntimeException();
 	}
 
 }
